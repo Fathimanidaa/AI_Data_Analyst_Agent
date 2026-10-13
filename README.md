@@ -1,6 +1,9 @@
 # AI Data Analyst Agent
 
+🚀 Live Demo: Open AI Data Analyst Agent
+
 An interactive data analysis application built with Python, Streamlit, and AI. It helps users explore CSV datasets, understand data quality, perform basic analysis, create visualizations, and ask questions in natural language.
+
 
 ## Features
 
